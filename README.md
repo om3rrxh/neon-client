@@ -7,7 +7,7 @@ Clientimiz birçok hile ve kategorsine sahiptir
 Aşağıdaki kodu kopyalayarak en güncel neon-client e erişim sağlayabilirsiniz.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PSTRXION/neon-client/main/neon-client.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/om3rrxh/neon-client/main/neon-client.lua"))()
 ```
 
 # ŞİFRE
