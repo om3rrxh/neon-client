@@ -13,4 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/om3rrxh/neon-client/m
 # ŞİFRE
 Yazılımımız şifre ile korunmaktadır.
 Neon client e erişmek için [discord sunucumuzdan](https://discord.gg/ZVcj3xCycb) şifreyi alabilirsiniz
-# powered by om3rrxh
+
+# NOT YAZILIMIMIZ BİLGİSAYARLAR İÇİN OPTİMİZE EDİLMİŞTİR.
+
+### created by om3rrxh
